@@ -1,5 +1,5 @@
 # About details za vežbu
 
-**Lista 1**
-**Lista 2**
+**Lista kodova za rad sa granama**
+**Lista kodova za rad u GIT.u**
 
